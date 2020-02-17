@@ -2,8 +2,6 @@
 This is a simple image that executes the `https://github.com/tensorflow/benchmarks` in the `https://hub.docker.com/r/tensorflow/tensorflow` image with the available benchmark models.
 An easy way to validate and performance test a new gpu instance.
 
-GitHub Repo: https://github.com/lab27hq/benchmark-tensorflow-docker
-
 ## Quickstart
 Simply run the image with the following command:
 
